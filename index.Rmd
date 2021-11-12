@@ -1,6 +1,5 @@
 ---
-title: "Career talk"
-subtitle: "Alfred University biology seminar"
+title: "Alfred University biology seminar"
 author: "Leslie Emery"
 date: "November 12, 2021"
 output:
@@ -37,37 +36,37 @@ background-size: 30%
 # Overview
 
 .right-column[
-* Hometown: Lansing, MI
-* Current city: Seattle, WA
-* Alfred University BA Biology, 2004 - 2008
-* University of Washington Genome Sciences PhD 2008 - 2014
-* Research Scientist, UW Biostatistics Genetic Analysis Center 2014 - 2019
-* Insight Data Science 2020
-* Principal Data Scientist, Bristol Myers Squibb, 2020 - present
+- Hometown: Lansing, MI
+- Current city: Seattle, WA
+- Alfred University BA Biology, 2004 - 2008
+- University of Washington Genome Sciences PhD 2008 - 2014
+- Research Scientist, UW Biostatistics Genetic Analysis Center 2014 - 2019
+- Insight Data Science 2020
+- Principal Data Scientist, Bristol Myers Squibb, 2020 - present
 ]
 
 ---
 
 # My Alfred highlights
 
-* National Merit Scholarship
-* Major indecision
-    * English, Fine art, and finally Biology in 1st year
-* Honors Program
-* 2 independent study research projects (ARGUS grants)
-    * Animal behavior - how mice and gerbils react to strangers
-    * Evolutionary biology - comparing gene sequences of lemurs
-* ITS Helpdesk sophomore - senior years
-    * Technician, Student Manager, and then Student Director
+- National Merit Scholarship
+- Major indecision
+    - English, Fine art, and finally Biology in 1st year
+- Honors Program
+- 2 independent study research projects (ARGUS grants)
+    - Animal behavior - how mice and gerbils react to strangers
+    - Evolutionary biology - comparing gene sequences of lemurs
+- ITS Helpdesk sophomore - senior years
+    - Technician, Student Manager, and then Student Director
 
 ---
 
 # REU internship at University of Michigan
 
-* Application due to junior bio seminar
-* Evolutionary biology lab studying insects
-* Extracting DNA from grasshoppers ("wet lab")
-* Analyzing data from *Drosophila* DNA sequences to infer evolutionary history of two species
+- Application due to junior bio seminar
+- Evolutionary biology lab studying insects
+- Extracting DNA from grasshoppers ("wet lab")
+- Analyzing data from *Drosophila* DNA sequences to infer evolutionary history of two species
 
 ---
 
@@ -78,13 +77,13 @@ background-size: 30%
 # Applying to grad school
 
 .right-column[
-* 6 interviews in ~2 months (too many!)
-    * Accepted: Penn State, Rutgers, Ohio State, U Washington (UW)
-    * Not accepted: U Mich, Cornell
-* UW Genome Sciences
-    * Seattle is amazing
-    * Professors were friendly, interesting
-    * Grad students were happy, friendly, welcoming
+- 6 interviews in ~2 months (too many!)
+    - Accepted: Penn State, Rutgers, Ohio State, U Washington (UW)
+    - Not accepted: U Mich, Cornell
+- UW Genome Sciences
+    - Seattle is amazing
+    - Professors were friendly, interesting
+    - Grad students were happy, friendly, welcoming
 ]
 
 ---
@@ -96,13 +95,13 @@ background-size: 30%
 # UW Seattle - grad school and first job
 
 .right-column[
-* UW Genome Sciences
-    * Year 1: lab rotations & projects, classes
-    * Year 2: classes, general exam (research proposal)
-    * Years 3 - 5.5: research
-    * Studied human evolutionary history from existing patterns of genetic variation
-* Research scientist, UW Biostatistics (5 years)
-    * Data analysis for health research studies
+- UW Genome Sciences
+    - Year 1: lab rotations & projects, classes
+    - Year 2: classes, general exam (research proposal)
+    - Years 3 - 5.5: research
+    - Studied human evolutionary history from existing patterns of genetic variation
+- Research scientist, UW Biostatistics (5 years)
+    - Data analysis for health research studies
 ]
 
 ---
@@ -115,10 +114,10 @@ background-size: 30%, 60%
 
 .left-column[
 ## Tasks
-* Data processing
-* Data analysis
-* Plots & charts
-* Interactive visualizations
+- Data processing
+- Data analysis
+- Plots & charts
+- Interactive visualizations
 ]
 ---
 
@@ -129,31 +128,31 @@ background-size: 30%
 # Bristol Myers Squibb
 
 ## Questions
-* What are promising treatments for diseases with unmet needs?
-* How does a particular treatment work?
-* Do existing treatments work particularly well/particularly poorly for specific subsets of patients?
-* What are the long term effects of existing treatments?
-* Cancer, cardiovascular disease, immune diseases, etc.
+- What are promising treatments for diseases with unmet needs?
+- How does a particular treatment work?
+- Do existing treatments work particularly well/particularly poorly for specific subsets of patients?
+- What are the long term effects of existing treatments?
+- Cancer, cardiovascular disease, immune diseases, etc.
 ]
 
 ---
 
 # If I had it to do over...
 
-* Industry internship (undergrad and graduate)
-* Talking to those in careers of interest
-* More statistics classes
-* Intro coding classes
-* Study abroad
+- Industry internship (undergrad and graduate)
+- Talking to those in careers of interest
+- More statistics classes
+- Intro coding classes
+- Study abroad
 
 ---
 
 # Alfred's unique advantages
 
-* Getting to know your professors
-    * Personalized recommendation letters
-* Class presentations
-* Alumni network
+- Getting to know your professors
+    - Personalized recommendation letters
+- Class presentations
+- Alumni network
 
 ---
 
@@ -161,8 +160,8 @@ background-size: 30%
 
 *Especially if you're interested in coding, data analysis, statistics, or pharma!*
 
-* [BMS internships information](https://careers.bms.com/internships)
-    * I can review your application if you find an internship of interest
-* [Linkedin](https://www.linkedin.com/in/leslie-emery/)
-* Email: leslie.s.emery@gmail.com
+- [BMS internships information](https://careers.bms.com/internships)
+    - I can review your application if you find an internship of interest
+- [Linkedin](https://www.linkedin.com/in/leslie-emery/)
+- Email: leslie.s.emery@gmail.com
 
