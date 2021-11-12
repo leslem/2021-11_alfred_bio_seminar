@@ -30,29 +30,30 @@ mono_light(
 )
 ```
 
+background-image: url(http://numerology.center/images/life_path.jpg)
+background-position: 0% 50%
+background-size: 30%
 
 # Overview
 
-* Hometown: Lansing, MI; Current city: Seattle, WA
-* Alfred Biology major, 2004 - 2008
+.right-column[
+* Hometown: Lansing, MI
+* Current city: Seattle, WA
+* Alfred University BA Biology, 2004 - 2008
 * University of Washington Genome Sciences PhD 2008 - 2014
 * Research Scientist, UW Biostatistics Genetic Analysis Center 2014 - 2019
 * Insight Data Science 2020
 * Principal Data Scientist, Bristol Myers Squibb, 2020 - present
-
----
-
-# My time at Alfred
-
-* National Merit Scholarship
-* Major indecision
-    * English, Fine art, and finally Biology in 1st year
-* Honors Program
+]
 
 ---
 
 # My Alfred highlights
 
+* National Merit Scholarship
+* Major indecision
+    * English, Fine art, and finally Biology in 1st year
+* Honors Program
 * 2 independent study research projects (ARGUS grants)
     * Animal behavior - how mice and gerbils react to strangers
     * Evolutionary biology - comparing gene sequences of lemurs
@@ -63,14 +64,20 @@ mono_light(
 
 # REU internship at University of Michigan
 
+* Application due to junior bio seminar
 * Evolutionary biology lab studying insects
 * Extracting DNA from grasshoppers ("wet lab")
 * Analyzing data from *Drosophila* DNA sequences to infer evolutionary history of two species
 
 ---
 
+background-image: url(https://www.planetware.com/wpimages/2020/03/washington-seattle-to-mt-rainier-best-ways-to-get-there-by-organized-tour.jpg)
+background-position: 0% 50%
+background-size: 30%
+
 # Applying to grad school
 
+.right-column[
 * 6 interviews in ~2 months (too many!)
     * Accepted: Penn State, Rutgers, Ohio State, U Washington (UW)
     * Not accepted: U Mich, Cornell
@@ -78,19 +85,31 @@ mono_light(
     * Seattle is amazing
     * Professors were friendly, interesting
     * Grad students were happy, friendly, welcoming
+]
 
 ---
 
-# Grad school and beyond
+background-image: url(https://magazine.washington.edu/columns_wordpress/wp-content/uploads/2019/04/FoegeBldg_03.jpg)
+background-position: 0% 50%
+background-size: 30%
 
+# UW Seattle - grad school and first job
+
+.right-column[
 * UW Genome Sciences
     * Year 1: lab rotations & projects, classes
     * Year 2: classes, general exam (research proposal)
     * Years 3 - 5.5: research
     * Studied human evolutionary history from existing patterns of genetic variation
 * Research scientist, UW Biostatistics (5 years)
+    * Data analysis for health research studies
+]
 
 ---
+
+background-image: url(https://www.bms.com/content/dam/bms/us/en-us/logos/bms-rebrand-logo.svg), url(https://www.flad.com/content/images/juno-therapeutics-interior-design-profile.jpg)
+background-position: 90% 10%, 90% 50%
+background-size: 30%, 60%
 
 # Bristol Myers Squibb
 
@@ -101,8 +120,14 @@ mono_light(
 * Plots & charts
 * Interactive visualizations
 ]
+---
 
-.right-column[
+background-image: url(https://www.bms.com/content/dam/bms/us/en-us/logos/bms-rebrand-logo.svg)
+background-position: 90% 10%
+background-size: 30%
+
+# Bristol Myers Squibb
+
 ## Questions
 * What are promising treatments for diseases with unmet needs?
 * How does a particular treatment work?
@@ -136,6 +161,8 @@ mono_light(
 
 *Especially if you're interested in coding, data analysis, statistics, or pharma!*
 
-* [Linkedin]()
+* [BMS internships information](https://careers.bms.com/internships)
+    * I can review your application if you find an internship of interest
+* [Linkedin](https://www.linkedin.com/in/leslie-emery/)
 * Email: leslie.s.emery@gmail.com
 
