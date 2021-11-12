@@ -1,0 +1,141 @@
+---
+title: "Career talk"
+subtitle: "Alfred University biology seminar"
+author: "Leslie Emery"
+date: "November 12, 2021"
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+---
+
+```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = FALSE, eval = FALSE, message = FALSE, dpi = 72)
+```
+
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+mono_light(
+  base_color = "#125972", ## picked to coordinate with rOpenSci logo
+  code_highlight_color = "#c0e8f5",
+  link_color = "#197b9e",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Droid Mono")
+)
+```
+
+
+# Overview
+
+* Hometown: Lansing, MI; Current city: Seattle, WA
+* Alfred Biology major, 2004 - 2008
+* University of Washington Genome Sciences PhD 2008 - 2014
+* Research Scientist, UW Biostatistics Genetic Analysis Center 2014 - 2019
+* Insight Data Science 2020
+* Principal Data Scientist, Bristol Myers Squibb, 2020 - present
+
+---
+
+# My time at Alfred
+
+* National Merit Scholarship
+* Major indecision
+    * English, Fine art, and finally Biology in 1st year
+* Honors Program
+
+---
+
+# My Alfred highlights
+
+* 2 independent study research projects (ARGUS grants)
+    * Animal behavior - how mice and gerbils react to strangers
+    * Evolutionary biology - comparing gene sequences of lemurs
+* ITS Helpdesk sophomore - senior years
+    * Technician, Student Manager, and then Student Director
+
+---
+
+# REU internship at University of Michigan
+
+* Evolutionary biology lab studying insects
+* Extracting DNA from grasshoppers ("wet lab")
+* Analyzing data from *Drosophila* DNA sequences to infer evolutionary history of two species
+
+---
+
+# Applying to grad school
+
+* 6 interviews in ~2 months (too many!)
+    * Accepted: Penn State, Rutgers, Ohio State, U Washington (UW)
+    * Not accepted: U Mich, Cornell
+* UW Genome Sciences
+    * Seattle is amazing
+    * Professors were friendly, interesting
+    * Grad students were happy, friendly, welcoming
+
+---
+
+# Grad school and beyond
+
+* UW Genome Sciences
+    * Year 1: lab rotations & projects, classes
+    * Year 2: classes, general exam (research proposal)
+    * Years 3 - 5.5: research
+    * Studied human evolutionary history from existing patterns of genetic variation
+* Research scientist, UW Biostatistics (5 years)
+
+---
+
+# Bristol Myers Squibb
+
+.left-column[
+## Tasks
+* Data processing
+* Data analysis
+* Plots & charts
+* Interactive visualizations
+]
+
+.right-column[
+## Questions
+* What are promising treatments for diseases with unmet needs?
+* How does a particular treatment work?
+* Do existing treatments work particularly well/particularly poorly for specific subsets of patients?
+* What are the long term effects of existing treatments?
+* Cancer, cardiovascular disease, immune diseases, etc.
+]
+
+---
+
+# If I had it to do over...
+
+* Industry internship (undergrad and graduate)
+* Talking to those in careers of interest
+* More statistics classes
+* Intro coding classes
+* Study abroad
+
+---
+
+# Alfred's unique advantages
+
+* Getting to know your professors
+    * Personalized recommendation letters
+* Class presentations
+* Alumni network
+
+---
+
+# Contact me
+
+*Especially if you're interested in coding, data analysis, statistics, or pharma!*
+
+* [Linkedin]()
+* Email: leslie.s.emery@gmail.com
+
